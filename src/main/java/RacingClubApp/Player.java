@@ -1,4 +1,4 @@
-package Racing;
+package RacingClubApp;
 
 public class Player extends Person{
     private String shirtNumber;

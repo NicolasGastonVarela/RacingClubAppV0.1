@@ -1,4 +1,4 @@
-package Racing;
+package RacingClubApp;
 
 public class HeadCoach extends Person{
     private String endOfContract;

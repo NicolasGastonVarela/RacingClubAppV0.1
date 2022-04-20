@@ -1,4 +1,4 @@
-package Racing;
+package RacingClubApp;
 
 public class Person {
     private String name;

@@ -1,4 +1,4 @@
-package RacingClubApp;
+package Racing.src.main.java.RacingClubApp;
 
 public class Chairman extends Person{
     private String presidentialPeriodEnd;

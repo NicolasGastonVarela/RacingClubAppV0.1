@@ -1,4 +1,4 @@
-package RacingClubApp;
+package Racing.src.main.java.RacingClubApp;
 
 public class TestRunner {
         Chairman chairman = new Chairman("Victor, ", "Blanco, ", "Chairman, ");

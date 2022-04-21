@@ -1,4 +1,4 @@
-package RacingClubApp;
+package Racing.src.main.java.RacingClubApp;
 
 public class ClubApp {
     public static void main(String[] args){

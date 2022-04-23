@@ -19,4 +19,5 @@ public class Chairman extends Person{
     public String getChairmanInfo(){
        return getPersonInfo() + "Presidential Period End: " + getPresidentialPeriodEnd("2024");
     }
+
 }

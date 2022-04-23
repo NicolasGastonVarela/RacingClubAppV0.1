@@ -13,4 +13,4 @@ public class TestRunner {
         Player player8 = new Player("Leonel, ", "Miranda, ", "Player, ");
         Player player9 = new Player("Gaston, ", "Gomez, ", "Player, ");
         Player player10 = new Player("Carlos, ", "Alcaraz, ", "Player, ");
-}
+ }

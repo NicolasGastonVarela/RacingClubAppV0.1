@@ -85,4 +85,9 @@ public class Player extends Person{
         return getPersonInfo() + "Shirt Number: " + getShirtNumber("22, ") + "Position: " + getPosition("Offensive Midfielder, ")
                 + "Preferred Foot: " + getPreferredFoot("Right");
     }
+
+    public String getSquadInfo(){
+        return getPlayer1Info() + getPlayer2Info() + getPlayer3Info() + getPlayer4Info() + getPlayer5Info() + getPlayer6Info()
+                + getPlayer7Info() + getPlayer8Info() + getPlayer9Info() + getPlayer10Info();
+    }
 }
